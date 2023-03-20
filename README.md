@@ -1,46 +1,22 @@
-# Getting Started with Create React App and Redux
+Deployed link:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+https://disneyclone-6c731.web.app/
 
-## Available Scripts
+Here are some screenshots of the project:
 
-In the project directory, you can run:
+Login Page of the website:
 
-### `npm start`
+![Screenshot (445)](https://user-images.githubusercontent.com/61971255/226327458-adb91500-1006-4b66-bd21-02fa19e5791c.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+When user login:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot (446)](https://user-images.githubusercontent.com/61971255/226327477-398c7461-e55a-4ceb-a66a-709661b6843d.png)
 
-### `npm test`
+![Screenshot (447)](https://user-images.githubusercontent.com/61971255/226327560-95b12ec3-18f7-43d1-9c91-c3cbf896a10d.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Shelf of movies:
 
-### `npm run build`
+![Screenshot (448)](https://user-images.githubusercontent.com/61971255/226327592-c6f6fe15-2be9-44cc-a0dd-84b329406875.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+More details of the movie that we click on:
+![Screenshot (449)](https://user-images.githubusercontent.com/61971255/226327712-4eff4aa3-6a77-4c0d-a680-b51472fdfeb7.png)
